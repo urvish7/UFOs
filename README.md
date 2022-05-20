@@ -31,13 +31,6 @@ The Files that were used in this project are:
 
 ### Below images is filtered with the state Florida and country as US.
 
-
-
-
-
-
-
-### Urvish Desai
 ![](https://github.com/urvish7/UFOs/blob/main/static/images/FilteredData.png)
 
 ### The Below data is filtered with the date 1/7/2010.
@@ -57,4 +50,8 @@ The Files that were used in this project are:
    - The case sensitive should be off as user dont have to worry about the data for having wrong upper or lower case.
    
    
-   
+  
+  
+  
+  
+### Urvish Desai
