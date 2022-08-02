@@ -1,6 +1,5 @@
 # UFOs
 
-## Module 11 Challenge
 
 ## Overview of the Project 
 
